@@ -1,0 +1,137 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://demo.muse-themes.com/theme-wesleys" resolutions="1x" timestamp="1577807665504">
+  <folder name="css">
+    <file name="site_global.css" crc="4010817788"/>
+    <file name="master_a-master.css" crc="4091971585" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3978897240" ref="index"/>
+    <file name="index.css" crc="4011942202" ref="index"/>
+    <file name="nomq_index.css" crc="4055108884" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="128606099" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u3417.php" crc="342157314" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="home_page_bg (3).jpg" crc="4119594384" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blur-casual-close-up-depth-of-field-428320-min-u2912-fr.jpg" crc="3830514815" ref="index"/>
+    <file name="tattoo-artist-in-black-gloves-drawing-a-tattoo-on-a-person-s-1304468-min-u2915-fr.jpg" crc="4101482620" ref="index"/>
+    <file name="woman-wearing-black-sunglasses-holding-android-smartphone-1188748-min-u2918-fr.jpg" crc="3978829524" ref="index"/>
+    <file name="strzalki.png" crc="4046493300" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="man-in-black-top-wearing-headphones-showing-his-tattoos-838696-min-u9657-fr.jpg" crc="429538146" ref="index"/>
+    <file name="man-riding-on-skateboard-3039183-min-u9665-fr.jpg" crc="460507453" ref="index"/>
+    <file name="photo-of-man-wearing-black-shirt-3290886-min-u9683-fr.jpg" crc="341294603" ref="index"/>
+    <file name="woman-in-black-sports-bra-standing-outside-2356167-min-u9701-fr.jpg" crc="16150717" ref="index"/>
+    <file name="radiobuttonunchecked.png" crc="3976871150" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedrollover.png" crc="4276313674" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonuncheckedmousedown.png" crc="54863585" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttonchecked.png" crc="4193302265" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedrollover.png" crc="88928956" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="radiobuttoncheckedmousedown.png" crc="4280357799" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="woman-covering-face-1433273-min.jpg" crc="329483815" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blur-casual-close-up-depth-of-field-428320-min-u2912-fr2.jpg" crc="310921682" ref="index"/>
+    <file name="tattoo-artist-in-black-gloves-drawing-a-tattoo-on-a-person-s-1304468-min-u2915-fr2.jpg" crc="458494021" ref="index"/>
+    <file name="woman-wearing-black-sunglasses-holding-android-smartphone-1188748-min-u2918-fr2.jpg" crc="3782884503" ref="index"/>
+    <file name="man-riding-on-skateboard-3039183-min-u9665-fr2.jpg" crc="275792852" ref="index"/>
+    <file name="photo-of-man-wearing-black-shirt-3290886-min-u9683-fr2.jpg" crc="4109456252" ref="index"/>
+    <file name="woman-in-black-sports-bra-standing-outside-2356167-min-u9701-fr2.jpg" crc="497146828" ref="index"/>
+    <file name="blur-casual-close-up-depth-of-field-428320-min-u2912-fr3.jpg" crc="198235045" ref="index"/>
+    <file name="tattoo-artist-in-black-gloves-drawing-a-tattoo-on-a-person-s-1304468-min-u2915-fr3.jpg" crc="3929562326" ref="index"/>
+    <file name="woman-wearing-black-sunglasses-holding-android-smartphone-1188748-min-u2918-fr3.jpg" crc="4210530818" ref="index"/>
+    <file name="man-in-black-top-wearing-headphones-showing-his-tattoos-838696-min-u9657-fr2.jpg" crc="4097925232" ref="index"/>
+    <file name="man-riding-on-skateboard-3039183-min-u9665-fr3.jpg" crc="3970954267" ref="index"/>
+    <file name="photo-of-man-wearing-black-shirt-3290886-min-u9683-fr3.jpg" crc="4287714780" ref="index"/>
+    <file name="woman-in-black-sports-bra-standing-outside-2356167-min-u9701-fr3.jpg" crc="4178800398" ref="index"/>
+    <file name="woman-covering-face-1433273-min-u3504-fr.jpg" crc="3852155764" ref="index"/>
+    <file name="blur-casual-close-up-depth-of-field-428320-min-u2912-fr4.jpg" crc="3898810132" ref="index"/>
+    <file name="woman-wearing-black-sunglasses-holding-android-smartphone-1188748-min-u2918-fr4.jpg" crc="4287476935" ref="index"/>
+    <file name="tattoo-artist-in-black-gloves-drawing-a-tattoo-on-a-person-s-1304468-min-u2915-fr4.jpg" crc="48438296" ref="index"/>
+    <file name="man-in-black-top-wearing-headphones-showing-his-tattoos-838696-min-u9657-fr3.jpg" crc="4103127105" ref="index"/>
+    <file name="man-riding-on-skateboard-3039183-min-u9665-fr4.jpg" crc="3944624802" ref="index"/>
+    <file name="photo-of-man-wearing-black-shirt-3290886-min-u9683-fr4.jpg" crc="131149835" ref="index"/>
+    <file name="woman-in-black-sports-bra-standing-outside-2356167-min-u9701-fr4.jpg" crc="22930242" ref="index"/>
+    <file name="blur-casual-close-up-depth-of-field-428320-min-u2912-fr5.jpg" crc="246083915" ref="index"/>
+    <file name="woman-wearing-black-sunglasses-holding-android-smartphone-1188748-min-u2918-fr5.jpg" crc="442530978" ref="index"/>
+    <file name="tattoo-artist-in-black-gloves-drawing-a-tattoo-on-a-person-s-1304468-min-u2915-fr5.jpg" crc="4287546206" ref="index"/>
+    <file name="man-riding-on-skateboard-3039183-min-u9665-fr5.jpg" crc="3892106880" ref="index"/>
+    <file name="photo-of-man-wearing-black-shirt-3290886-min-u9683-fr5.jpg" crc="338127228" ref="index"/>
+    <file name="woman-in-black-sports-bra-standing-outside-2356167-min-u9701-fr5.jpg" crc="310327238" ref="index"/>
+    <file name="blur-casual-close-up-depth-of-field-428320-min.jpg" crc="218248903" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tattoo-artist-in-black-gloves-drawing-a-tattoo-on-a-person-s-1304468-min.jpg" crc="4222171355" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="woman-wearing-black-sunglasses-holding-android-smartphone-1188748-min.jpg" crc="4026914661" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="man-in-black-top-wearing-headphones-showing-his-tattoos-838696-min.jpg" crc="13695991" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="man-riding-on-skateboard-3039183-min.jpg" crc="151462449" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photo-of-man-wearing-black-shirt-3290886-min.jpg" crc="3763899543" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="woman-in-black-sports-bra-standing-outside-2356167-min.jpg" crc="4144149852" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home_page_bg (3)-u94-fr.jpg" crc="3976913570" ref="index"/>
+    <file name="blur-casual-close-up-depth-of-field-428320-min-u2912-fr6.jpg" crc="372517422" ref="index"/>
+    <file name="woman-wearing-black-sunglasses-holding-android-smartphone-1188748-min-u2918-fr6.jpg" crc="63088984" ref="index"/>
+    <file name="tattoo-artist-in-black-gloves-drawing-a-tattoo-on-a-person-s-1304468-min-u2915-fr6.jpg" crc="489659050" ref="index"/>
+    <file name="man-riding-on-skateboard-3039183-min-u9665-fr6.jpg" crc="3764036449" ref="index"/>
+    <file name="photo-of-man-wearing-black-shirt-3290886-min-u9683-fr6.jpg" crc="4237994905" ref="index"/>
+    <file name="woman-in-black-sports-bra-standing-outside-2356167-min-u9701-fr6.jpg" crc="346589196" ref="index"/>
+  </folder>
+  <file name="index.html" crc="86542606" seo="true" mt="1577805861641" redirect="true"/>
+</manifest>
