@@ -1,2 +1,0 @@
-# tts
-Tatuaże To Sztuka
